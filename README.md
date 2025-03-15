@@ -16,7 +16,6 @@ A FastAPI-based RAG (Retrieval-Augmented Generation) pipeline that uses Google's
 - **AI Model**: Google Gemini
 - **Vector Database**: FAISS
 - **Document Store**: MongoDB
-- **Frontend Port**: 5173 (Vite)
 - **Backend Port**: 8000
 
 ## Setup
@@ -64,11 +63,3 @@ All POST endpoints accept a JSON body with a `prompt` field:
     "prompt": "Your text here"
 }
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
