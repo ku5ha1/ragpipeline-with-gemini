@@ -1,6 +1,6 @@
 # Gemini RAG Pipeline
 
-A FastAPI RAG (Retrieval-Augmented Generation) backend using Google Gemini, FAISS, and MongoDB.
+A minimal RAG (Retrieval-Augmented Generation) backend using Google Gemini, FAISS, and MongoDB.
 
 ## Features
 
