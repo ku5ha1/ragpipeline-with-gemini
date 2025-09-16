@@ -7,3 +7,4 @@ numpy
 pymongo
 requests
 google-generativeai
+markdown
